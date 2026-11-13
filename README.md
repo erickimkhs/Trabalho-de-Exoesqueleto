@@ -8,7 +8,7 @@ Como copiar o projeto e inicar ela?
 -abre o VsCode e abre a pasta onde vai colocar a pasta de codigos  
 -tem um icone de bolinha x com simbolo de "danger" no lado esquerdo inferior, clica ela  
 -muda para a aba terminal  
--clicando ela, coloca git clone link: https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;  
+-clicando ela, coloca git clone https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;  
 
 A Workflow:  
 -Se voce fez alguma mudança em algum file ou criou um novo, vai aparecer dentro do "Changes" a sua mudança; voce pode clicar "+" para salvar as mudanças. Como se voce colocou as coisas dentro uma caixa sem selar ela  
