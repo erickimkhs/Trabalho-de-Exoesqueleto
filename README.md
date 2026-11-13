@@ -3,6 +3,7 @@
 Básicos de github:
 
 Como copiar o projeto e inicar ela?
+-instale Git
 -tem um icone no lado esquerdo onde tem as 3 bolinhas interligadas chamado source control, clica ela
 -Nessa aba, tem do lado do changes, 3 pontinhos, clicando ela voce vai ver a opçao clone
 -clicando ela, coloca esse link: https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;
@@ -27,12 +28,12 @@ Branches:
 -como criar a branch: no canto inferior esquerdo, aparece em qual branch voce está, clicando nele voce pode criar sua branch com o nome que quer. Nota-se que as branches são só locais. (o jeito mais simples é ir no source control, clica nos 3 pontinhos do lado do "changes" e clica opçao "branch" e cria ela lá)
 -mudar de linha de tempo: clica no mesmo icone e aparece as branch e voce pode escolher qual branch que voce quer trabalhar
 -nota-se que pode fazer uma branch da sua branch com "create new branch from" onde voce usa quando voce ta incerto sobre o estado atual da branch mas tem medo de que vai quebrar tudo
--quando voce faz push, voce vai criar essa branch no github e colocar as commits lá
+-quando voce faz push, voce vai criar essa branch no github e colocar as commits lá. O jeito mais facil que achei foi no source contro,na parte do "graph", clica no push (icone da seta para cima)
 -para deletar ela vai no source control e clica no 3 pontinhos e vai na opçao branch e deleta ela
 -para juntar elas, fique na branch onde voce quer que as mudanças ocorram, vai na mesma aba de 3 pontinhos e clica merge e escolhe a branch que quer pegar as mudanças (não deleta a branch)
 
 O que fazer no github:
--Honestamente não consigo achar o pull request porque sou dono do repositório, mas deve aparecer uma opçao la para voce pedir para fazer o pull request onde voce literalmente fala: minhas mudanaças são objetivamente superior a main e demando que as mudanças entrem na main
+-Vai no github, vai na aba de pull request, escolhe a origem e o destino e clica no botao "create pull request" fazer o pull request onde voce literalmente fala: minhas mudanaças são objetivamente superior a main e demando que as mudanças entrem na main. 
 
 Finalmente agora que virou genius de git (trust):
 1. A regra de ouro (Sempre dê Pull antes de começar): Antes de escrever qualquer linha de código no dia, clique em Pull (especialmente se estiver na main). Isso garante que você está trabalhando em cima da versão mais recente que seus "aliados" enviaram.
