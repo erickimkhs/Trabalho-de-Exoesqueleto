@@ -27,8 +27,8 @@ Branches:
 -Ela é uma linha do tempo onde tem a "main", a principal, e os "branches" que servem como linha do tempo paralelo  
 -ela funciona assim, no estado atual do codigo está estável, mas voce precisa adicionar alguns códigos que provavelmente vai quebrar tudo. Você vai criar uma branch para voce fazer qualquer commits que quiser e se tudo der errado, é só voltar para a main. Se deu certo, voce pode fundir a main com o seu branch  
 -como criar a branch: no canto inferior esquerdo do VsCode, aparece em qual branch voce está, clicando nele tem a opção de criar sua branch com o nome que quer. Nota-se que as branches são só locais. (o jeito mais simples é ir no source control, clica nos 3 pontinhos do lado do "changes" e clica opçao "branch" e cria ela lá)  
--mudar de linha de tempo: clica no mesmo icone e aparece as branch e voce pode escolher qual branch que voce quer trabalhar  
--nota-se que pode fazer uma branch da sua branch com "create new branch from" onde voce usa quando voce ta incerto sobre o estado atual da branch mas tem medo de que vai quebrar tudo. 
+-mudar de linha de tempo: clica no mesmo icone e aparece as branch e voce pode escolher qual branch que voce quer trabalhar   
+-nota-se que pode fazer uma branch da sua branch com "create new branch from" onde voce usa quando voce ta incerto sobre o estado atual da branch mas tem medo de que vai quebrar tudo.   
 -quando voce faz push, voce vai criar essa branch no github e colocar as commits lá. O jeito mais facil que achei foi no source contro,na parte do "graph", clica no push (icone da seta para cima)  
 -para deletar ela vai no source control e clica no 3 pontinhos e vai na opçao branch e deleta essa branch. (nota que voce precisa estar fora dessa branch para deletar ela)
 -para juntar elas, fique na branch onde voce quer que as mudanças ocorram, vai na mesma aba de 3 pontinhos e clica merge e escolhe a branch que quer pegar as mudanças (não deleta a branch)  
