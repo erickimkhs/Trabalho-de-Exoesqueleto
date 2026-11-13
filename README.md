@@ -45,4 +45,6 @@ Finalmente agora que virou genius de git (trust):
 -Accept Incoming Change: mantém o código que veio do GitHub/outra branch.  
 -Accept Both Changes: mantém os dois, um abaixo do outro.  
 
-5. NUNCA mexe na main, sempre trabalha no branch seu, e faz push desse branch, pls  
+5. NUNCA mexe na main, sempre trabalha no branch seu, e faz push desse branch, pls
+
+6. Bonus: se clicar no icone de reciclar no canto inferior esquerdo, voce pode atualizar o seu codigo bem rápido
