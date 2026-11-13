@@ -7,7 +7,7 @@ Como copiar o projeto e inicar ela?
 -No terminal de comando, coloque [git config --global user.name "seu nome"] e [git config --global user.email "your.email@example.com"]. O nome do usuário e email é da sua conta de github  
 -abre o VsCode e abre a pasta onde vai colocar a pasta de codigos  
 -tem um icone de bolinha x com simbolo de "danger" no lado esquerdo inferior, clica ela  
--muda para a aba terminal 
+-muda para a aba terminal  
 -clicando ela, coloca git clone link: https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;  
 
 A Workflow:  
