@@ -9,7 +9,7 @@ Como copiar o projeto e inicar ela?
 -clicando ela, coloca esse link: https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;
 
 A Workflow:
--
+
 -Se voce fez alguma mudança em algum file ou criou um novo, vai aparecer dentro do "Changes" a sua mudança; voce pode clicar "+" para salvar as mudanças. Como se voce colocou as coisas dentro uma caixa sem selar ela
 -se clicou nesse "+", as mudanças estarão no "Staged changes", daí, pode clicar no "-" se mudou de ideia das mudanças e se realmente acha que as mudanças estão certas, Escreve um comentário das mudanças (ou clica nas estrelinhas para que o IA faça isso) e clica "Commit": fazendo isso voce tirou uma foto do estado atual do projeto, onde está salvo para voce voltar nela quando que quiser
 -Envie para a nuvem (Push): Como o Commit fica salvo só no seu computador, clique no botão  Push para enviar suas "fotos" para o GitHub 
