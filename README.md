@@ -3,7 +3,7 @@
 Básicos de github:
 
 Como copiar o projeto e inicar ela?
--instale Git
+-instale Git  
 -tem um icone no lado esquerdo onde tem as 3 bolinhas interligadas chamado source control, clica ela
 -Nessa aba, tem do lado do changes, 3 pontinhos, clicando ela voce vai ver a opçao clone
 -clicando ela, coloca esse link: https://github.com/erickimkhs/Trabalho-de-Exoesqueleto;
